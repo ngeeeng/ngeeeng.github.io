@@ -33,19 +33,9 @@ List of Islamic Apps (Android & iOS), Islamic Media (TV & Radio) and Website Isl
 Occasionally you'll get a push notif important information and interesting about the world of Islam.
 
 
-
-### Job
-
-Jobposition : 
-
-- Mobile Developer
-
-
-
 ### Screenshot
 
 <img src="https://lh4.ggpht.com/khOukpiNzB3-5XRq2JAu8ofI-PiIxPAgm8O0e5988MqSzENhnRDD8qysTMrQsvEfQw=h900-rw" style="width:2OOpx; height:300px"> <img src="https://lh4.ggpht.com/t4kBARufayEjcVCw77U4T9UnuSxdTd8p1SzIPSbZPqYjQBFOtLUnBNqAe90s4b3e0lI=h900-rw" style="width:2OOpx; height:300px"> <img src="https://lh6.ggpht.com/xZeOjAlx1X2OYZq54WjhbVuSNN20sf8RCBDmHqRZaJ-ayTFLRkaBnno4up0Zgyio_kA=h900-rw" style="width:2OOpx; height:300px"> <img src="https://lh4.ggpht.com/f4fynRm9GJ6vzq0X_Wer9DuYhtKwrAS7uoEsG4hrVHinGtWsfXdLl-AksmAcGVEAKe8=h900-rw" style="width:2OOpx; height:300px">
-
 
 
 ### Download

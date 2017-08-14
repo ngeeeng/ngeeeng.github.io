@@ -11,11 +11,8 @@ comments: false
 
 By utilizing information technology, Ministry of Religious Affairs to develop an application which is operated using a smart phone or smartphone and named "HAJI SMART".
 
-This application contains guidance and information for conducting the pilgrimage in the holy land, In addition there is also information lodgings in Medina and Mecca and tent locations maktab. Information schedule of departure and return, Shalawat bus information during in Mecca, Catering service information and other information
+This application contains guidance and information for conducting the pilgrimage in the holy land, In addition there is also information lodgings in Medina and Mecca and tent locations maktab. Information schedule of departure and return, Shalawat bus information during in Mecca, Catering service information and other information.
 
-### Job Position
-
-Android Developer
 
 ### Screenshot
 
@@ -30,7 +27,6 @@ Android Developer
 ![screenshot transportasi](https://raw.githubusercontent.com/CreatorB/res/master/img/haji-pintar/haji-pintar-programmer-transportasi.png)
 
 
-**Download**
-
+### Download
 
 <a href="https://play.google.com/store/apps/details?id=kemenag.vodanet.sra.haji.pintar" target="_blank"><img src="https://www.gstatic.com/android/market_images/web/play_one_bar_logo_2x.png" style="width:1OOpx; height:50px"></a>

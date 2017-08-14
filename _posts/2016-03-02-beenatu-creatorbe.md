@@ -13,9 +13,6 @@ Marketplace for laundry on demand in Indonesia, it's app connecting laundry shop
 With that information customers can find nearby laundry that meet their demand (such as: availability, speed, services, etc) and order the services by simply tap their smartphone to get their laundry picked up and delivered when it's done. 
 Beenatu apps not only for customer who need laundry services but for everyone who have laundry shop's can join beenatu as the service provider.
 
-### Job Position
-
-Android Developer
 
 ### Screenshot
 
@@ -27,6 +24,7 @@ Android Developer
 
 Full Screenshot you can access on [creatorb.github.io/img](https://raw.githubusercontent.com/CreatorB/creatorb.github.io/master/img/beenatu-allscreen-creatorbe.png)
 
-**Download**
+
+### Download
 
 <a href="https://play.google.com/store/apps/details?id=com.bee.beenatu" target="_blank"><img src="https://www.gstatic.com/android/market_images/web/play_one_bar_logo_2x.png" style="width:1OOpx; height:50px"></a>

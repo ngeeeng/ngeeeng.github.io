@@ -12,13 +12,6 @@ comments: false
 Get flight ticket booking on your phone screens now in the form of this aero. Get unlimited recharge options or bill payment ticket booking on a single platform.
 
 
-### Job
-
-Jobposition : 
-
-- Mobile Developer
-
-
 ### Screenshot
 
 <img src="https://farm1.staticflickr.com/776/22690640146_ce0aaf8b20_o_d.png" style="width:2OOpx; height:300px"> <img src="https://farm6.staticflickr.com/5800/22093889224_dc4f0d312e_o_d.png" style="width:2OOpx; height:300px"> <img src="https://farm1.staticflickr.com/668/22727830811_5230421314_o_d.png" style="width:2OOpx; height:300px"> <img src="https://farm1.staticflickr.com/655/22727831651_2218ea6506_o_d.png" style="width:2OOpx; height:300px">
