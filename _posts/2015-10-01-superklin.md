@@ -1,7 +1,7 @@
 ---
 layout : post
 title : "Superklin"
-date : 2016-04-02 13:45:21
+date : 2015-10-01 13:45:21
 tags : portfolio
 description: "Superklin, an android laundry app based on advance webview"
 comments: false

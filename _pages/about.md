@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi! there, i'm Hasan Basri. This is my portfolio site, just a place where i keep some old projects to show it to new client.  
+Hi! there, i'm Hasan Basri. 
+
+This is my portfolio site, just a place where i keep some old projects to show it to new client.  
 
 Mostly i spent my day to do a lot of coding activities and rarely update my blog on [**creatorbe links**](https://creatorbe.github.io){: target="_blank"}
 

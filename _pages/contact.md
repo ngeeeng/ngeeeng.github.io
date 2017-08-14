@@ -83,6 +83,6 @@ permalink: /contact/
 
 <!--<div class="fb-page" data-href="https://www.facebook.com/creatorb/" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/creatorb/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/creatorb/">creatorb</a></blockquote></div>-->
 
-If you big hurry to speak with me you can send me brief message first by fill out form on my official blog [_creatorbe.github.io/contact_](https://creatorbe.github.io/contact/) or send me manually by mail to [_creatorb45@gmail.com_](mailto:creatorb45@gmail.com).
+If you big hurry to speak with me, you can send me brief message on [_creatorbe.github.io/contact_](https://creatorbe.github.io/contact/) or text me manually by mail to [_creatorb45@gmail.com_](mailto:creatorb45@gmail.com).
 
 Thank's
