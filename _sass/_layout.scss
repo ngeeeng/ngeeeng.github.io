@@ -78,9 +78,10 @@
 }
 
 .post-description {
-    color: $grey-color;
     line-height: 0;
     font-family: monospace;
+    font-size: $small-font-size;
+    color: $grey-color;
 }
 
 
