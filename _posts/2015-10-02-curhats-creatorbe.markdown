@@ -1,7 +1,7 @@
 ---
 layout	: post
 title	: "Curhats"
-date   	: 2015-11-02 15:50:35
+date   	: 2015-10-02 15:50:35
 tags	: portfolio
 description: "Curhats is a live chat platform where you can confide or pour complaints, ask opinions, advice, or just to joke with our operators."
 comments: false
