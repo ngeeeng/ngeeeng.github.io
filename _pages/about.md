@@ -4,13 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Vyaasa is a Jekyll theme created for a no-distraction reader-friendly websites. It is free and open source project. 
+Hi! there, i'm Hasan Basri. This is my portfolio site, just a place where i keep some old projects to show it to new client.  
 
-For more themes visit - [**Webjeda Jekyll Themes**](https://blog.webjeda.com/jekyll-themes/){: target="_blank"}
+Mostly i spent my day to do a lot of coding activities and rarely update my blog on [**creatorbe links**](https://creatorbe.github.io){: target="_blank"}
 
-For Jekyll tutorials visit - [**Webjeda**](https://blog.webjeda.com/){: target="_blank"}
+This portfolio site started from Vyaasa based on Jekyll, created for a no-distraction reader-friendly and focused content websites. It is free and open source project, you can make your own by fork.
 
-Does the theme deserve a star?
-
-<a class="github-button" href="https://github.com/sharu725/vyaasa" data-style="mega" data-count-href="/sharu725/vyaasa/stargazers" data-count-api="/repos/sharu725/vyaasa#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/vyaasa on GitHub">Star</a>
+<a class="github-button" href="https://github.com/creatorb/creatorb.github.io/fork" data-icon="octicon-repo-forked" aria-label="Fork creatorb/creatorb.github.io on GitHub">Fork</a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
